@@ -114,3 +114,22 @@
     flex-direction: column;
   }
 }
+
+.cardcategory {
+  /* background-color: black; */
+  color: white;
+  display: grid;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+}
+
+.cardcontent {
+  background-color: black;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.mealDetail {
+  padding: 35px;
+}
